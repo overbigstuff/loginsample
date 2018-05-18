@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="EmailInputLayout">
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginRight">16dp</item>
+        <item name="android:layout_marginTop">24dp</item>
+    </style>
+
+    <style name="PasswordInputLayout">
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginRight">16dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+    </style>
+
+    <style name="ErrorAppearance" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/red_500</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="LoginButton">
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginRight">16dp</item>
+        <item name="android:layout_marginTop">24dp</item>
+        <item name="android:background">@drawable/orange_button</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+</resources>

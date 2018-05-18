@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginSample</string>
+    <string name="authorization">авторизация</string>
+    <string name="main_screen_title">Главная</string>
+
+    <string name="weather_api_key">25216933cde928ecdb75984da0064d84</string>
+</resources>
